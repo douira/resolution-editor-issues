@@ -1,5 +1,6 @@
 # Resolution Editor issues
 > Public issue reports for the Resolution Editor
+> 
 This repository contains no code but serves as a place to collect issue reports for the Resolution Editor.
 
 ## What this is for
